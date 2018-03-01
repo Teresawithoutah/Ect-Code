@@ -1,7 +1,7 @@
 //TERESA LUZ MILLER JS GAME 2018
 
 
-// first prompt
+// beginning prompt method
 var userChoice = prompt("Do you choose Rock, Paper or Scissors?");
 
 //assigns value to choice

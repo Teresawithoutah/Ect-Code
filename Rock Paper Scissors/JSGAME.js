@@ -25,7 +25,11 @@ var computerChoice = Math.random();
 var compare = function(firstchoice,secondchoice) {
 
 
+	
+	
 //if choice is a tie, do this
+	
+	//"==" means equals, whereas "===" means identically equal.
     if (firstchoice === secondchoice) {
 
         return "It's a tie!" + "<br>"+"<br>" + "Wanna play again or nah?" ;

@@ -9,7 +9,7 @@ var userChoice = prompt("Do you choose Rock, Paper or Scissors?");
 //The Math.random() function returns a floating-point
 //the range from 0 inclusive up to but not including 1
 
-
+//if else statement
 var computerChoice = Math.random();
   if (computerChoice < 0.30) {
 	computerChoice = "rock";

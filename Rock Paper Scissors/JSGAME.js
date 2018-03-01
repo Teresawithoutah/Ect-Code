@@ -21,6 +21,7 @@ var computerChoice = Math.random();
 
 
 /// function to compare rounds
+//parameters
 var compare = function(firstchoice,secondchoice) {
 
 
